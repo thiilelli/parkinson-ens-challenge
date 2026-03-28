@@ -1,4 +1,6 @@
-# Rust
+# Parkinson Motor Score Prediction — ENS Data Challenge
 
-Rust est un langage de programmation moderne conçu pour résoudre un problème que les ingénieurs rencontrent depuis des décennies : **écrire du code rapide sans sacrifier la sécurité**.
+Predicting the true OFF motor score for Parkinson's disease patients.
+Institut du Cerveau × ENS Paris.
 
+*Work in progress...*
