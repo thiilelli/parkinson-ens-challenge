@@ -1,0 +1,5 @@
+data/submission*.csv
+data/y_pred_random_obUqjcJ.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
