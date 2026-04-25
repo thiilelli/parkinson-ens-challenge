@@ -20,11 +20,14 @@ Three models compared on tabular clinical data:
 
 ## Results
 
-| Model | RMSE (CV 5-fold) |
+## Results
+
+| Model | RMSE |
 |---|---|
-| Linear Regression | TBD |
-| Random Forest | TBD |
-| XGBoost (tuned) | TBD |
+| Linear Regression | 9.67 |
+| Random Forest | 7.41 |
+| XGBoost (default, CV 5-fold) | 7.51 ± 0.10 |
+| XGBoost (tuned, CV 5-fold) | **7.37 ± 0.11** |
 
 ## Setup
 
