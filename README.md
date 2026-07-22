@@ -39,4 +39,3 @@ Leaderboard: 57 → 31 → **19**/175
 
 Feature engineering is the main driver of improvement — hyperparameter tuning (Optuna) brought negligible gains (~4.06 vs ~4.04) compared to richer longitudinal features.
 
-## Setup
